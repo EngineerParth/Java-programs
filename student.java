@@ -70,7 +70,7 @@ public class student extends Frame implements ActionListener{
     age.add("24");
     age.add("25");
               // x  y   w  h
-    component.setBounds(int x, int y, int w, int h); // single component, absolute
+    //component.setBounds(int x, int y, int w, int h); // single component, absolute
     l1.setBounds(25,65,90,20);
     l2.setBounds(25,90,90,20);
     l3.setBounds(25,120,90,20);
